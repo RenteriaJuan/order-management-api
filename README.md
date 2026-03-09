@@ -253,13 +253,3 @@ CREATE TABLE [Items] (
 
 ---
 
-## Convenção de Commits
-
-Este projeto segue o padrão [Conventional Commits](https://www.conventionalcommits.org/):
-
-```
-feat: adicionar endpoint de criação de pedido
-fix: tratar duplicidade de orderId na criação
-refactor: extrair mapper para módulo utilitário
-docs: adicionar exemplos de uso da API no README
-```
